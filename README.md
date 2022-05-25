@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/ZeNbK0L5cjnX64disL/giphy.gif" width="90px"/>
 </div>
-<h1 align="center">Part-Time Student. Part-Time Music Lover. Full-Time Developer</h1>
+<h1 align="center">Part-Time Student, Full-Time Developer</h1>
 <div id="badges" align="center">
   <a href="https://www.instagram.com/mbc.co_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
   <a href="https://epyxx-27.itch.io"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io Badge"/></a>

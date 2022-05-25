@@ -17,7 +17,7 @@
 	<br>
 	- 🎮 Created Games using C# and Unity Engine
 	<br>
-	- 🤖 I'm a Aspring AI Engineer and I want to start my on company
+	- 🤖 I'm a Aspring AI (Computer Vision) Engineer and I want to start my own company
 </p>
 <hr>
 <div align="left">

@@ -20,7 +20,7 @@
 	- 🤖 I'm a Aspring AI Engineer and I want to start my on company
 </p>
 <hr>
-<div align="center">
+<div align="left">
 	<h3>📈My Stats</h3>
    <img width="400" src="http://github-readme-streak-stats.herokuapp.com?user=mbchavez27&theme=dark&date_format=%5BY.%5Dn.j" /> 
 	<br>

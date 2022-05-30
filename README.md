@@ -15,6 +15,8 @@
 	<br>
 	- 🕸️ Currently Studying Full Stack Web Development with MERN Stack and Python 
 	<br>
+	- 👀 Planning to learn AI specifically Computer Vision using Python 
+	<br>
 	- 🎮 Created Games using C# and Unity Engine
 	<br>
 	- 🤖 I'm a Aspring AI (Computer Vision) Engineer and I want to start my own company

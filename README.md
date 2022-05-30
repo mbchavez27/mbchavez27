@@ -18,12 +18,16 @@
 	- 👀 Planning to learn AI specifically Computer Vision using Python 
 	<br>
 	- 🎮 Created Games using C# and Unity Engine
-	<br>
-	- 🤖 I'm a Aspring AI (Computer Vision) Engineer and I want to start my own company
 </p>
 <hr>
 <div align="left">
-	<h3>📈My Stats</h3>
+<h3>🛠️Tools & Languages</h3>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# Badge"/><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS Badge"/>
+<br>
+<img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity Badge"/><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCODE Badge"/><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IJ Badge"/>
+<hr>
+<div align="left">
+	<h3>📈Stats</h3>
    <img width="400" src="http://github-readme-streak-stats.herokuapp.com?user=mbchavez27&theme=dark&date_format=%5BY.%5Dn.j" /> 
 	<br>
 	<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbchavez27&layout=compact&theme=dark" /> 

@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://media.giphy.com/media/ZeNbK0L5cjnX64disL/giphy.gif" width="90px"/>
+  <img src="https://media.giphy.com/media/ZeNbK0L5cjnX64disL/giphy.gif" width="100px"/>
 </div>
 <h1 align="center">Part-Time Student, Full-Time Developer</h1>
 <div id="badges" align="center">

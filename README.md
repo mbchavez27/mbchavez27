@@ -8,7 +8,10 @@
   <a href="https://epyxx-27.itch.io"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io Badge"/></a>
   <a href="https://www.linkedin.com/in/max-benedict-chavez-a29347221/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 </div>
-<hr>
+<div align="center">
+   <img width="100" src="https://komarev.com/ghpvc/?username=mbchavez27&color=green" /> 
+</div>
+<hr
 <h3>💌About Me!</h3>
 <p>
 	<b>I'm a 👨‍🎓SHS Student at Asia Pacific College</b>

@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/max-benedict-chavez-a29347221/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 </div>
 <div align="center">
-   <img width="100" src="https://komarev.com/ghpvc/?username=mbchavez27&color=green" /> 
+   <img width="100" src="https://komarev.com/ghpvc/?username=mbchavez27&color=red" /> 
 </div>
 <hr
 <h3>💌About Me!</h3>

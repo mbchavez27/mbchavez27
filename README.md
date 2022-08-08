@@ -14,7 +14,7 @@
 <hr
 <h3>💌About Me!</h3>
 <p>
-	<b>I'm a 👨‍🎓SHS Student at Asia Pacific College</b>
+	<b>I'm an 👨‍🎓SHS Student at Asia Pacific College</b>
 	<br>
 	- 🕸️ Currently Studying Full Stack Web Development with MERN Stack and Python 
 	<br>

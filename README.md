@@ -13,11 +13,9 @@
 <hr
 <h3>💌About Me!</h3>
 <p>
-	<b>I'm an 👨‍🎓SHS Student at Asia Pacific College</b>
+	<b>I'm an 👨‍🎓College Student at De La Salle University</b>
 	<br>
-	- 🕸️ Currently Studying Full Stack Web Development with MERN Stack and Python 
-	<br>
-	- 👀 Loves AI specifically Computer Vision with Python 
+	- 🏹 I'm currently studying Bachelor of Science in Entrepreneurship  at De La Salle University
 	<br>
 	- 🎮 Created Games using C# and Unity Engine
 </p>

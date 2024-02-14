@@ -15,7 +15,7 @@
 <p>
 	<b>I'm an 👨‍🎓College Student at De La Salle University</b>
 	<br>
-	- 🏹 I'm currently studying Bachelor of Science in Entrepreneurship  at De La Salle University
+	- 🏹 I'm currently taking up Bachelor of Science in Entrepreneurship  at De La Salle University
 	<br>
 	- 🎮 Created Games using C# and Unity Engine
 </p>

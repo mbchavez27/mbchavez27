@@ -1,5 +1,5 @@
 <div align="center">
-	<h1>📈 Max Chavez</h1>
+	<h1>🏹🎱 Max Chavez</h1>
 	<img width="400" src="https://github-readme-stats.vercel.app/api?username=mbchavez27&show_icons=true&theme=dark" /> 
 	<img width="400" src="http://github-readme-streak-stats.herokuapp.com?user=mbchavez27&theme=dark&date_format=%5BY.%5Dn.j" /> 
 	<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbchavez27&layout=compact&theme=dark" /> 

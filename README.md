@@ -1,5 +1,11 @@
 <div align="center">
 	<h1>🏹🎱 Dev Profile</h1>
+	<h2>About Me:</h2>
+	<div align="left">
+	<p>I'm a DLSU student studying BS Entrepreneurship waiting to get shifted to BS Computer Science Major in Software Tech</p>
+	<p>I have experience in Game Development and I'm currenly working on Web Development while also trying to build a startup to solve real world problems.</p>
+	<p>My goal is to learn Machine Learning to dabble in the world of AI</p>
+	</div>
 	<h2>Tools&Tech:</h2>
 	<img width="100" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
 	<img width="120" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 

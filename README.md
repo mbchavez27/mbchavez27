@@ -12,7 +12,8 @@ I have a strong foundation in **web development** and **game development**, driv
 - 🎨 **Lead Frontend Engineer** at the **La Salle Computer Society**  
 - ⚙️ **Tech-Operations Logistics Team Lead** at the **DLSU USG**  
 - 🤖 Aspiring **AI Engineer** with interests in **software engineering** + **machine learning**  
-- 💡 Passionate about **innovation**, **startups**, and building impactful technologies  
+- 📊 Aspiring **Human–AI Interaction & Data Science** researcher  
+- 💡 Passionate about **innovation**, **startups**, and building impactful technologies**  
 
 ---
 
@@ -33,7 +34,8 @@ I have a strong foundation in **web development** and **game development**, driv
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>  
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>  
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>  
+<!--<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> -->
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>  
 </div>  
 
 ### 💻 Programming Languages  
@@ -44,11 +46,6 @@ I have a strong foundation in **web development** and **game development**, driv
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>  
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>  
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>  
-</div>  
-
-### 🎮 Tools & Frameworks  
-<div align="left">  
-<img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>  
 </div>  
 
 ---

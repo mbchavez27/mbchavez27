@@ -61,9 +61,4 @@ I have a strong foundation in **web development** and **game development**, driv
 
 📈 Productivity powered by [WakaTime](https://wakatime.com):  
 ![WakaTime Stats](https://wakatime.com/share/@caa5b56f-990a-46ed-abed-3809ba944d3f/be9afd73-c59c-49d8-af1a-d7562f1d9164.png)  
-
----
-
-✨ *"Innovation starts with curiosity — and I’m always curious."* ✨  
-
 </div>

@@ -13,7 +13,7 @@ I have a strong foundation in **web development** and **game development**, driv
 - ⚙️ **Tech-Operations Logistics Team Lead** at the **DLSU USG**  
 - 🤖 Aspiring **AI Engineer** with interests in **software engineering** + **machine learning**  
 - 📊 Aspiring **Human–AI Interaction & Data Science** researcher  
-- 💡 Passionate about **innovation**, **startups**, and building impactful technologies**  
+- 💡 Passionate about **innovation**, **startups**, and **building impactful technologies**
 
 ---
 

@@ -1,23 +1,37 @@
 <div align="center">
-	<h1>🏹🎱 Dev Profile</h1>
+	<h1>🏹🎱🍓Dev Profile</h1>
 	<h2>About Me:</h2>
 	<div align="left">
-	<p>I'm a DLSU student studying BS Computer Science Major in Software Tech</p>
-	<p>I have experience in Game Development and is currenly working on Web Development while also trying to build a startup to solve real world problems.</p>
-	<p>My goal is to learn Machine Learning to dabble in the world of AI</p>
+	  <p>I'm a Computer Science major specializing in Software Technology at <b>De La Salle University</b>, with a strong foundation in <b>web development</b> and <b>game development</b>. Driven by a passion for innovation, I focus on creating creative solutions to real-world challenges.</p>
+	  <p>Currently, I serve as <b>Lead Frontend Engineer</b> at the <b>La Salle Computer Society</b> and <b>Tech-Operations Logistics Team Lead</b> at the <b>DLSU USG</b>, where I manage projects and lead teams to deliver efficient and impactful solutions.</p>
+	  <p>My long-term goal is to become an impactful <b>AI Engineer</b>, leveraging my skills in software engineering and machine learning to build innovative technologies and collaborate with others in the tech industry.</p>
 	</div>
-	<h2>Tools&Tech:</h2>
+	<h2>Tools & Tech:</h2>
+	<!-- Frontend -->
+	<h3>Frontend</h3>
+	<img width="100" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
 	<img width="100" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
-	<img width="100" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> 
-	<img width="120" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
-	<img width="100" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> 
 	<img width="100" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> 
+	<img width="140" src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />  
+	<img width="120" src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white" />
+	<img width="120" src="https://img.shields.io/badge/Shadcn/UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+	<!-- Backend -->
+	<h3>Backend</h3>
+	<img width="100" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+	<img width="100" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" /> 
+	<img width="100" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> 
+	<img width="100" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />  
+	<!-- Programming Languages -->
+	<h3>Programming Languages</h3>
+	<img width="120" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
+	<img width="100" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> 
 	<img width="80" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> 
 	<img width="100" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
-	<img width="100" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> 
 	<img width="50" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> 
+	<img width="50" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />  
+	<!-- Tools & Frameworks -->
+	<h3>Tools & Frameworks</h3>
 	<img width="100" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" /> 
-	<img width="50" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> 
 	<h2>Stats:</h2>
 	<img width="400" src="https://github-readme-stats.vercel.app/api?username=mbchavez27&show_icons=true&theme=dark" /> 
 	<img width="400" src="http://github-readme-streak-stats.herokuapp.com?user=mbchavez27&theme=dark&date_format=%5BY.%5Dn.j" /> 

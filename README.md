@@ -47,7 +47,7 @@ I have a strong foundation in **web development** and **game development**, driv
 <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white"/>  
 <img src="https://img.shields.io/badge/Seaborn-4C78A8?style=for-the-badge&logo=python&logoColor=white"/>  
 <br/>  
-<img src="https://img.shields.io/badge/scikit--learn-(learning)-gray?style=for-the-badge&logo=scikitlearn&logoColor=white"/>  
+<img src="https://img.shields.io/badge/scikit--learn-2C3E50?style=for-the-badge&logo=scikitlearn&logoColor=white"/>  
 <img src="https://img.shields.io/badge/TensorFlow-(learning)-gray?style=for-the-badge&logo=tensorflow&logoColor=white"/>  
 <img src="https://img.shields.io/badge/PyTorch-(learning)-gray?style=for-the-badge&logo=pytorch&logoColor=white"/>  
 </div>  

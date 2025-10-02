@@ -11,8 +11,8 @@ I have a strong foundation in **web development** and **game development**, driv
 ## 🚀 About Me  
 - 🎨 **Lead Frontend Engineer** at the **La Salle Computer Society**  
 - ⚙️ **Tech-Operations Logistics Team Lead** at the **DLSU USG**  
-- 🤖 Aspiring **AI Engineer** with interests in **software engineering** + **machine learning**  
-- 📊 Aspiring **Human–AI Interaction & Data Science** researcher  
+- 🤖 **Student AI Engineer** with interests in **software engineering + machine learning**
+- 📊** AI & ML Researcher** in _Human–AI Interaction & Data Science_
 - 💡 Passionate about **innovation**, **startups**, and **building impactful technologies**
 
 ---

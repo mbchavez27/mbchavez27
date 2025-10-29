@@ -10,7 +10,6 @@ I have a strong foundation in **web development** and **game development**, driv
 
 ## 🚀 About Me  
 - 🎨 **Lead Frontend Engineer** at the **La Salle Computer Society**  
-- ⚙️ **Former Tech-Operations Logistics Team Lead** at the **DLSU USG**_
 - 🎮 **Former Founder of Epyxx Studios**, _a solo indie game development studio_
 - 🤖 **Aspiring ML Engineer** with interests in **software engineering + machine learning**
 - 📊 **Aspiring Researcher** specializing in _Natural Language Processing, and Human–AI Interaction_

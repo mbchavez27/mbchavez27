@@ -11,7 +11,7 @@ I have a strong foundation in **web development** and **game development**, driv
 ## 🚀 About Me  
 - 🎨 **Lead Frontend Engineer** at the **La Salle Computer Society**  
 - 🎮 **Former Founder of Epyxx Studios**, _a solo indie game development studio_
-- 🤖 **Aspiring ML Engineer** with interests in **software engineering + machine learning**
+- 🤖 **Student ML Engineer** with interests in **software engineering + machine learning**
 - 📊 **Aspiring Researcher** specializing in _Natural Language Processing, and Human–AI Interaction_
 - 💡 Passionate about **innovation**, **startups**, and **building impactful technologies**
 

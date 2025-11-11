@@ -66,10 +66,7 @@ I have a strong foundation in **web development** and **game development**, driv
 
 ## 📊 Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mbchavez27&show_icons=true&theme=radical&hide_border=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mbchavez27&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbchavez27&layout=compact&theme=radical&hide_border=true)  
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mbchavez27&show_icons=true&theme=radical&hide_border=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mbchavez27&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j) |
+|---|---|
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbchavez27&layout=compact&theme=radical&hide_border=true) | |
 
-📈 Productivity powered by [WakaTime](https://wakatime.com):  
-![WakaTime Stats](https://wakatime.com/share/@caa5b56f-990a-46ed-abed-3809ba944d3f/be9afd73-c59c-49d8-af1a-d7562f1d9164.png)  
-</div>

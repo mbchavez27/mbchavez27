@@ -60,3 +60,9 @@ I have a strong foundation in **web development** and **game development**, driv
 |---|---|
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbchavez27&layout=compact&theme=radical&hide_border=true) | |
 
+
+## ⭐ Favorite Projects  
+
+| [![PinoyBot](https://github-readme-stats.vercel.app/api/pin/?username=mbchavez27&repo=csintsy-mco2-pinoybot&theme=dark&hide_border=true&card_width=500)](https://github.com/mbchavez27/csintsy-mco2-pinoybot) | [![Simple Translator](https://github-readme-stats.vercel.app/api/pin/?username=mbchavez27&repo=ccprog2-mp-simple-translator&theme=dark&hide_border=true&card_width=500)](https://github.com/mbchavez27/ccprog2-mp-simple-translator) |
+|---|---|
+

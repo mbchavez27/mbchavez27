@@ -56,12 +56,12 @@ I have a strong foundation in **web development** and **game development**, driv
 
 ## 📊 Stats  
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mbchavez27&show_icons=true&theme=radical&hide_border=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mbchavez27&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbchavez27&layout=compact&theme=radical&hide_border=true) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mbchavez27&show_icons=true&theme=radical&hide_border=true&card_width=200) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mbchavez27&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j&card_width=200) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbchavez27&layout=compact&theme=radical&hide_border=true&card_width=200) |
 |---|---|---|
 
 ## ⭐ Favorite Projects  
 
-| [![PinoyBot](https://github-readme-stats.vercel.app/api/pin/?username=mbchavez27&repo=csintsy-mco2-pinoybot&theme=dark&hide_border=true&card_width=500)](https://github.com/mbchavez27/csintsy-mco2-pinoybot) | [![Simple Translator](https://github-readme-stats.vercel.app/api/pin/?username=mbchavez27&repo=ccprog2-mp-simple-translator&theme=dark&hide_border=true&card_width=500)](https://github.com/mbchavez27/ccprog2-mp-simple-translator) |
+| [![PinoyBot](https://github-readme-stats.vercel.app/api/pin/?username=mbchavez27&repo=csintsy-mco2-pinoybot&theme=dark&hide_border=true&card_width=200)](https://github.com/mbchavez27/csintsy-mco2-pinoybot) | [![Simple Translator](https://github-readme-stats.vercel.app/api/pin/?username=mbchavez27&repo=ccprog2-mp-simple-translator&theme=dark&hide_border=true&card_width=200)](https://github.com/mbchavez27/ccprog2-mp-simple-translator) |
 |---|---|
-| [![Jump-Shot](https://github-readme-stats.vercel.app/api/pin/?username=mbchavez27&repo=jump-shot&theme=dark&hide_border=true&card_width=500)](https://github.com/mbchavez27/jump-shot) | [![SteakHouse Nightmare](https://github-readme-stats.vercel.app/api/pin/?username=mbchavez27&repo=steakhouse-nightmare&theme=dark&hide_border=true&card_width=500)](https://github.com/mbchavez27/steakhouse-nightmare) |
+| [![Jump-Shot](https://github-readme-stats.vercel.app/api/pin/?username=mbchavez27&repo=jump-shot&theme=dark&hide_border=true&card_width=200)](https://github.com/mbchavez27/jump-shot) | [![SteakHouse Nightmare](https://github-readme-stats.vercel.app/api/pin/?username=mbchavez27&repo=steakhouse-nightmare&theme=dark&hide_border=true&card_width=200)](https://github.com/mbchavez27/steakhouse-nightmare) |
 

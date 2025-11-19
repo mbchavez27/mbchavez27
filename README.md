@@ -65,4 +65,5 @@ I have a strong foundation in **web development** and **game development**, driv
 
 | [![PinoyBot](https://github-readme-stats.vercel.app/api/pin/?username=mbchavez27&repo=csintsy-mco2-pinoybot&theme=dark&hide_border=true&card_width=500)](https://github.com/mbchavez27/csintsy-mco2-pinoybot) | [![Simple Translator](https://github-readme-stats.vercel.app/api/pin/?username=mbchavez27&repo=ccprog2-mp-simple-translator&theme=dark&hide_border=true&card_width=500)](https://github.com/mbchavez27/ccprog2-mp-simple-translator) |
 |---|---|
+| [![Jump-Shot](https://github-readme-stats.vercel.app/api/pin/?username=mbchavez27&repo=Jump-Shot&theme=dark&hide_border=true&card_width=500)](https://github.com/mbchavez27/Jump-Shot) | [![SteakHouse Nightmare](https://github-readme-stats.vercel.app/api/pin/?username=mbchavez27&repo=SteakHouse-Nightmare&theme=dark&hide_border=true&card_width=500)](https://github.com/mbchavez27/SteakHouse-Nightmare) |
 

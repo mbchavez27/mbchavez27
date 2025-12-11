@@ -1,3 +1,4 @@
+### HI!
 **Lead Frontend Engineer** — [La Salle Computer Society](https://github.com/dlsu-lscs)  
 **Former Founder** of _Epyxx Studios_ — a solo indie game development studio  
 **Student** — exploring the intersection of **Software Engineering** & **Machine Learning**  

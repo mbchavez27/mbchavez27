@@ -2,7 +2,7 @@
 **Lead Frontend Engineer** — [La Salle Computer Society](https://github.com/dlsu-lscs)  
 **Former Founder** of _Epyxx Studios_ — a solo indie game development studio  
 **Student** — exploring the intersection of **Software Engineering** & **Machine Learning**  
-**Aspiring Researcher** — specializing in _Natural Language Processing (NLP)_ and _Human–AI Interaction_  
+**Aspiring Researcher** — specializing in _Natural Language Processing (NLP)_ and _Affective Computing_  
 Passionate about **innovation**, **startups**, and creating **impactful technologies**
 
 ### Stats:

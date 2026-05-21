@@ -3,7 +3,7 @@
 **Student Researcher** — *Center for ICT for Development*  <br/>
 **Former Founder** of _Epyxx Studios_ — a solo indie game development studio  <br/>
 **Student** — exploring the intersection of **Software Engineering** & **AI Research**  
-**Research Interests** — _Natural Language Processing (NLP)_ and _Affective Computing_  
+**Research Interests** — _Natural Language Processing (NLP)_ and _Human Computer Interactions_  
 Passionate about **innovation**, **startups**, and creating **impactful technologies**<br/>
 Building with **TypeScript, Go, Python, and C++** for _full-stack development, and machine learning_
 

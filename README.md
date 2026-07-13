@@ -1,15 +1,1 @@
-### About Me:
-**Lead Frontend Engineer** — [La Salle Computer Society](https://github.com/dlsu-lscs) <br/>
-**Student Researcher** — *Center for ICT for Development*  <br/>
-**Former Founder** of _Epyxx Studios_ — a solo indie game development studio  <br/>
-**Student** — exploring the intersection of **Software Engineering** & **AI Research**  
-**Research Interests** — _Natural Language Processing (NLP)_ and _Affective Computing_  
-Passionate about **innovation**, **startups**, and creating **impactful technologies**<br/>
-Building with **TypeScript, Go, Python, and C++** for _full-stack development, and machine learning_
-
-
-
-### Stats:
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mbchavez27&show_icons=true&theme=radical&hide_border=true&card_width=200) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mbchavez27&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j&card_width=200) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbchavez27&layout=compact&theme=radical&hide_border=true&card_width=200) |
-|---|---|---|
-
+software engineer, student researcher, and technical operator for live events. focused on the intersection of ai and software engineering, with interests in natural language processing, affective computing, and building scalable systems with typescript, go, python, and c++.

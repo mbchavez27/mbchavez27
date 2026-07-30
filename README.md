@@ -1,6 +1,6 @@
 ## hello.! @mbchavezz
 
-software engineer, undergraduate researcher, and technical operator for live events. currently studying computer science, majoring in software technology.
+software engineer, undergraduate researcher, and technical operator for live events. currently studying computer science, majoring in software technology @ de la salle university manila.
 
 interested in ai, natural language processing, affective computing, software engineering, and building scalable systems with typescript and python.
 

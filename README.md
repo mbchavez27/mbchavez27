@@ -22,19 +22,6 @@ interested in ai, natural language processing, affective computing, software eng
 
 ---
 
-## projects
-
-**Pana** — https://pana.tools  
-- Centralized directory for Lasallian applications.
-- Built with Next.js, TypeScript, Express, and system design principles.
-- Managed development through Agile sprints with a team of developers.
-
-**LEAP 2025 Registration Platform**
-- High-traffic registration platform serving 22,000+ DLSU students.
-- Built a scalable and mobile-first experience using Next.js, TypeScript, and Tailwind CSS.
-
----
-
 ## publications
 
 **AILRIC 2026** · *Accepted Oral Presentation*

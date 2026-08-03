@@ -11,7 +11,7 @@ interested in ai, natural language processing, affective computing, software eng
 | about | currently |
 |-------|-----------|
 | full stack software engineer | lead software engineer @ la salle computer society |
-| undergraduate researcher | center for ict for development (cite4d) |
+| ai researcher | undergraduate researcher @ center for ict for development (cite4d) |
 | bs computer science (software technology) | de la salle university manila |
 | ai • nlp • software engineering | typescript • python • go |
 

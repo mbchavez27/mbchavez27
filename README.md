@@ -17,13 +17,6 @@ interested in ai, natural language processing, affective computing, software eng
 
 ---
 
-<p align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=mbchavez27&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbchavez27&layout=compact&hide_title=true&hide_border=true&langs_count=6" />
-</p>
-
----
-
 ## currently
 
 - leading frontend engineering across multiple teams at la salle computer society.

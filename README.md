@@ -6,51 +6,82 @@ interested in ai, natural language processing, affective computing, software eng
 
 ---
 
-## experience
-
-**Lead Software Engineer (Frontend)** · La Salle Computer Society  
-*Aug 2024 – Present*
-- Leading frontend engineering across multiple teams.
-- Building scalable applications with Next.js and TypeScript.
-- Developing internal tooling, engineering standards, and improving development workflows.
-
-**Undergraduate Researcher** · Center for ICT for Development (CITE4D), De La Salle University  
-*Feb 2026 – Present*
-- Conducting research in multilingual NLP, sentiment analysis, and affective computing.
-- Developing transformer-based models and analyzing large-scale text datasets.
-- Contributed to accepted conference papers, including AILRIC 2026 and IEEE FMLDS 2026.
+| about | current |
+|-------|---------|
+| full stack software engineer | lead software engineer @ la salle computer society |
+| undergraduate researcher | center for ict for development (cite4d) |
+| bs computer science (software technology) | de la salle university manila |
 
 ---
 
 ## publications
 
-**AILRIC 2026** · *Accepted Oral Presentation*
+<details>
+<summary><strong>ailric 2026 · accepted oral presentations (2)</strong></summary>
+
+<br>
 
 - *A Machine Proposed Human-Validated Taglish-English Parallel Corpus for E-Commerce Alignment Analysis*
 - *Audience Bias and Sentiment in Korean Cinema: A Cross-Cultural Text Mining Analysis*
 
-**IEEE FMLDS 2026** · *Accepted Full Paper*
+</details>
+
+<details>
+<summary><strong>ieee fmlds 2026 · accepted full paper</strong></summary>
+
+<br>
 
 - *The Dynamics of Cancel Culture: A Social Network and Sentiment Trajectory Analysis of Influencer Apology Videos in South Korea*
 
+</details>
+
 ---
 
-## tech stack
+## tech
 
-### languages
-`Python` `TypeScript` `Go` `Java` `SQL`
+| languages | ai & ml |
+|------------|---------|
+| `Python` | `PyTorch` |
+| `TypeScript` | `Hugging Face` |
+| `Go` | `Scikit-learn` |
+| `Java` | `NLP` |
+| `SQL` | `LLMs` |
+| | `Embeddings` |
+| | `Sentiment Analysis` |
 
-### ai & machine learning
-`PyTorch` `Hugging Face Transformers` `Scikit-learn`
-`NLP` `LLMs` `Embeddings`
-`Sentiment Analysis` `Pandas` `NumPy`
+| web | databases | tooling |
+|-----|-----------|---------|
+| `Next.js` | `PostgreSQL` | `Git` |
+| `React` | `MySQL` | `Docker` |
+| `Express.js` | `MongoDB` | |
+| `Tailwind CSS` | | |
 
-### web & backend
-`Next.js` `React` `Express.js`
-`REST APIs` `Tailwind CSS`
+---
 
-### databases
-`PostgreSQL` `MySQL` `MongoDB`
+## experience
 
-### tooling
-`Git` `Docker`
+<details>
+<summary><strong>lead software engineer (frontend) · la salle computer society</strong></summary>
+
+<br>
+
+*Aug 2024 – Present*
+
+- leading frontend engineering across multiple teams.
+- building scalable applications with next.js and typescript.
+- developing internal tooling, engineering standards, and improving development workflows.
+
+</details>
+
+<details>
+<summary><strong>undergraduate researcher · center for ict for development (cite4d)</strong></summary>
+
+<br>
+
+*Feb 2026 – Present*
+
+- conducting research in multilingual nlp, sentiment analysis, and affective computing.
+- developing transformer-based models and analyzing large-scale text datasets.
+- contributed to accepted conference papers, including ailric 2026 and ieee fmlds 2026.
+
+</details>

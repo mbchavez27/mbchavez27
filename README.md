@@ -21,7 +21,7 @@ interested in ai, natural language processing, affective computing, software eng
 
 - leading frontend engineering across multiple teams at la salle computer society.
 - conducting research in multilingual nlp, sentiment analysis, and affective computing at cite4d.
-- building scalable full stack applications using typescript, react, next.js, and python.
+- building scalable full stack applications using typescript, svelte, go, and python.
 - presenting accepted research papers at ailric 2026 and ieee fmlds 2026.
 
 ---
@@ -68,7 +68,7 @@ analysis of online cancel culture using sentiment trajectory modeling and social
 **aug 2024 – present**
 
 - leading frontend engineering across multiple teams.
-- building scalable applications using next.js, react, and typescript.
+- building scalable applications using next.js, svelte, and typescript.
 - developing internal tooling and engineering standards.
 - improving development workflows and code quality.
 - mentoring developers and reviewing pull requests.
@@ -97,9 +97,9 @@ analysis of online cancel culture using sentiment trajectory modeling and social
 |-------------|----------|
 | typescript | multilingual nlp |
 | python | sentiment analysis |
-| next.js | affective computing |
-| react | transformers |
-| express.js | llms |
+| go | affective computing |
+| svelte | transformers |
+| next.js | llms |
 | postgresql | embeddings |
 
 ---
@@ -125,9 +125,9 @@ analysis of online cancel culture using sentiment trajectory modeling and social
 
 ### web & backend
 
-`Next.js` `React` `Express.js`
+`Svelte` `SvelteKit` `Next.js` `Express.js`
 
-`REST APIs` `Tailwind CSS`
+`Go` `REST APIs` `Tailwind CSS`
 
 ### databases
 

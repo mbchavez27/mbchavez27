@@ -13,7 +13,7 @@ interested in ai, natural language processing, affective computing, software eng
 | full stack software engineer | lead software engineer @ la salle computer society |
 | ai researcher | undergraduate researcher @ center for ict for development (cite4d) |
 | bs computer science (software technology) | de la salle university manila |
-| ai • nlp • software engineering | typescript • python • go |
+| ai • nlp • software engineering | typescript • python • go • java |
 
 ---
 
@@ -100,7 +100,7 @@ analysis of online cancel culture using sentiment trajectory modeling and social
 | go | affective computing |
 | svelte | transformers |
 | next.js | llms |
-| postgresql | embeddings |
+| java | embeddings |
 
 ---
 

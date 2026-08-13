@@ -14,7 +14,7 @@ view my gitpeek stats: https://gitpeak.vercel.app/?username=mbchavez27
 |-------|-----------|
 | full stack software engineer | lead software engineer @ la salle computer society |
 | ai researcher | undergraduate researcher @ center for ict for development (cite4d) |
-| bs computer science (software technology) | de la salle university manila |
+| bs computer science major in software technology | de la salle university manila |
 | ai • nlp • software engineering | typescript • python • go • java |
 
 ---

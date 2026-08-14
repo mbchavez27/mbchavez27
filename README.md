@@ -12,8 +12,12 @@ view my gitpeek stats: https://gitpeak.vercel.app/?username=mbchavez27
 
 now playing!
 
- <a href="https://listening-xmdb.vercel.app/">
-    <img src="https://listening-xmdb.vercel.app/now.svg?name=mbchavezz" alt="Max's now playing status"/>
+<a href="https://listening-xmdb.vercel.app/">
+  <img
+    src="https://listening-xmdb.vercel.app/now.svg?user=mbchavezz&name=Max"
+    width="500"
+    alt="Max's now playing status"
+  />
 </a>
 
 ---

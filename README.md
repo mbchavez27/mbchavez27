@@ -1,12 +1,10 @@
 ## hello.! @mbchavez27
 
-
-
 software engineer, undergraduate researcher, and technical operator for live events.
 
 currently studying computer science, majoring in software technology @ de la salle university manila.
 
-interested in ai, natural language processing, affective computing, software engineering, and building scalable systems with typescript and python.
+interested in ai, natural language processing, affective computing, computational social science, and building scalable systems with typescript and python.
 
 view my gitpeek stats: https://gitpeak.vercel.app/?username=mbchavez27
 
@@ -22,21 +20,13 @@ now playing!
 
 ---
 
-| about | currently |
-|-------|-----------|
-| full stack software engineer | lead software engineer @ la salle computer society |
-| ai researcher | undergraduate researcher @ center for ict for development (cite4d) |
-| bs computer science major in software technology | de la salle university manila |
-| ai • nlp • software engineering | typescript • python • go • java |
-
----
-
 ## currently
 
-- leading frontend engineering across multiple teams at la salle computer society.
-- conducting research in multilingual nlp, sentiment analysis, and affective computing at cite4d.
-- building scalable full stack applications using typescript, svelte, go, and python.
-- presenting accepted research papers at ailric 2026 and ieee fmlds 2026.
+| role | organization |
+|------|--------------|
+| lead software engineer | la salle computer society |
+| undergraduate researcher | center for ict for development (cite4d) |
+| bs computer science · software technology | de la salle university manila |
 
 ---
 
@@ -49,7 +39,7 @@ now playing!
 
 ### A Machine Proposed Human-Validated Taglish-English Parallel Corpus for E-Commerce Alignment Analysis
 
-research on creating a high-quality taglish-english parallel corpus through a machine-proposed, human-validated pipeline for multilingual nlp and e-commerce applications.
+a machine-proposed, human-validated taglish-english parallel corpus for multilingual nlp and e-commerce applications.
 
 </details>
 
@@ -60,7 +50,7 @@ research on creating a high-quality taglish-english parallel corpus through a ma
 
 ### The Dynamics of Cancel Culture: A Social Network and Sentiment Trajectory Analysis of Influencer Apology Videos in South Korea
 
-analysis of online cancel culture using sentiment trajectory modeling and sentiment trajectory analysis to understand audience responses to influencer apology videos.
+sentiment trajectory and social network analysis of audience responses to influencer apology videos.
 
 </details>
 
@@ -71,40 +61,7 @@ analysis of online cancel culture using sentiment trajectory modeling and sentim
 
 ### Analyzing Cross-Cultural Audience Sentimental and Evaluative Dimensions in Korean Cinema Using Multilingual Transformers
 
-cross-cultural analysis of audience sentiment and evaluative dimensions in korean cinema using multilingual transformer models to examine differences in audience responses across cultural contexts.
-
-</details>
-
----
-
-## experience
-
-<details>
-<summary><strong>lead software engineer (frontend) · la salle computer society</strong></summary>
-
-<br>
-
-**aug 2024 – present**
-
-- leading frontend engineering across multiple teams.
-- building scalable applications using next.js, svelte, and typescript.
-- developing internal tooling and engineering standards.
-- improving development workflows and code quality.
-- mentoring developers and reviewing pull requests.
-
-</details>
-
-<details>
-<summary><strong>undergraduate researcher · center for ict for development (cite4d)</strong></summary>
-
-<br>
-
-**feb 2026 – present**
-
-- conducting research in multilingual natural language processing.
-- developing transformer-based models for sentiment analysis and affective computing.
-- analyzing large-scale text datasets using python and machine learning.
-- contributing to accepted conference publications and ongoing research projects.
+multilingual transformer-based analysis of cross-cultural audience sentiment and evaluative dimensions in korean cinema.
 
 </details>
 
@@ -112,14 +69,13 @@ cross-cultural analysis of audience sentiment and evaluative dimensions in korea
 
 ## focus
 
-| engineering | research |
-|-------------|----------|
-| typescript | multilingual nlp |
-| python | sentiment analysis |
-| go | affective computing |
-| svelte | transformers |
-| next.js | llms |
-| java | embeddings |
+**engineering**
+
+`TypeScript` `Python` `Go` `Svelte` `Next.js` `Java` `SQL`
+
+**research**
+
+`NLP` `Affective Computing` `Computational Social Science` `Sentiment Analysis` `Transformers` `LLMs` `Embeddings`
 
 ---
 
@@ -128,25 +84,13 @@ cross-cultural analysis of audience sentiment and evaluative dimensions in korea
 
 <br>
 
-### languages
-
-`Python` `TypeScript` `Go` `Java` `SQL`
-
 ### ai & machine learning
 
-`PyTorch` `Hugging Face Transformers` `Scikit-learn`
-
-`Natural Language Processing` `Large Language Models`
-
-`Embeddings` `Sentiment Analysis`
-
-`Pandas` `NumPy`
+`PyTorch` `Hugging Face Transformers` `Scikit-learn` `Pandas` `NumPy`
 
 ### web & backend
 
-`Svelte` `SvelteKit` `Next.js` `Express.js`
-
-`Go` `REST APIs` `Tailwind CSS`
+`Svelte` `SvelteKit` `Next.js` `Express.js` `Go` `REST APIs` `Tailwind CSS`
 
 ### databases
 

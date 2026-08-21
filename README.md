@@ -43,19 +43,13 @@ now playing!
 ## publications
 
 <details>
-<summary><strong>ailric 2026 · accepted oral presentations (2)</strong></summary>
+<summary><strong>ailric 2026 · accepted oral presentation</strong></summary>
 
 <br>
 
 ### A Machine Proposed Human-Validated Taglish-English Parallel Corpus for E-Commerce Alignment Analysis
 
 research on creating a high-quality taglish-english parallel corpus through a machine-proposed, human-validated pipeline for multilingual nlp and e-commerce applications.
-
----
-
-### Audience Bias and Sentiment in Korean Cinema: A Cross-Cultural Text Mining Analysis
-
-cross-cultural sentiment analysis exploring audience perceptions and biases in korean cinema through multilingual text mining techniques.
 
 </details>
 
@@ -66,7 +60,18 @@ cross-cultural sentiment analysis exploring audience perceptions and biases in k
 
 ### The Dynamics of Cancel Culture: A Social Network and Sentiment Trajectory Analysis of Influencer Apology Videos in South Korea
 
-analysis of online cancel culture using sentiment trajectory modeling and social network analysis to understand audience responses to influencer apology videos.
+analysis of online cancel culture using sentiment trajectory modeling and sentiment trajectory analysis to understand audience responses to influencer apology videos.
+
+</details>
+
+<details>
+<summary><strong>icicic 2026 · accepted oral presentation</strong></summary>
+
+<br>
+
+### Analyzing Cross-Cultural Audience Sentimental and Evaluative Dimensions in Korean Cinema Using Multilingual Transformers
+
+cross-cultural analysis of audience sentiment and evaluative dimensions in korean cinema using multilingual transformer models to examine differences in audience responses across cultural contexts.
 
 </details>
 

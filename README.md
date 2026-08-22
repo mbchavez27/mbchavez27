@@ -30,7 +30,7 @@ now playing!
 
 ---
 
-## publications
+## publications & conference papers
 
 <details>
 <summary><strong>ailric 2026 · accepted oral presentation</strong></summary>

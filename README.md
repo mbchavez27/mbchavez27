@@ -4,7 +4,7 @@ software engineer, undergraduate researcher, and technical operator for live eve
 
 currently studying computer science, majoring in software technology @ de la salle university manila.
 
-interested in ai, natural language processing, affective computing, computational social science, and building scalable systems with typescript and python.
+interested in **ai research, natural language processing, machine learning, affective computing, computational social science**, and building scalable systems with typescript and python.
 
 view my gitpeek stats: https://gitpeak.vercel.app/?username=mbchavez27
 
@@ -22,15 +22,15 @@ now playing!
 
 ## currently
 
-| role | organization |
-|------|--------------|
-| lead software engineer | la salle computer society |
-| undergraduate researcher | center for ict for development (cite4d) |
-| bs computer science · software technology | de la salle university manila |
+| role                                      | organization                            |
+| ----------------------------------------- | --------------------------------------- |
+| undergraduate researcher                  | center for ict for development (cite4d) |
+| technical operator · live events          | green media group                       |
+| bs computer science · software technology | de la salle university manila           |
 
 ---
 
-## publications & conference papers
+## research & publications
 
 <details>
 <summary><strong>ailric 2026 · accepted oral presentation</strong></summary>
@@ -69,13 +69,17 @@ multilingual transformer-based analysis of cross-cultural audience sentiment and
 
 ## focus
 
+**ai research**
+
+`NLP` `Machine Learning` `Affective Computing` `Computational Social Science`
+
+**research methods**
+
+`Sentiment Analysis` `Transformers` `LLMs` `Embeddings` `Social Network Analysis` `Text Mining`
+
 **engineering**
 
 `TypeScript` `Python` `Go` `Svelte` `Next.js` `Java` `SQL`
-
-**research**
-
-`NLP` `Affective Computing` `Computational Social Science` `Sentiment Analysis` `Transformers` `LLMs` `Embeddings`
 
 ---
 

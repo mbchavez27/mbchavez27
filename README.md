@@ -6,7 +6,7 @@ currently studying computer science, majoring in software technology @ de la sal
 
 interested in **ai research, natural language processing, machine learning, affective computing, computational social science**, and building scalable systems with typescript and python.
 
-view my gitpeek stats: https://gitpeak.vercel.app/?username=mbchavez27
+[view my resume](https://animo.li/mbchavez-resume) · [view my gitpeek stats](https://gitpeak.vercel.app/?username=mbchavez27)
 
 now playing!
 

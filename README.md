@@ -41,6 +41,10 @@ now playing!
 
 a machine-proposed, human-validated taglish-english parallel corpus for multilingual nlp and e-commerce applications.
 
+### Audience Bias and Sentiment Analysis of Korean Cinema
+
+a multilingual nlp study analyzing audience sentiment and cultural differences between korean and international viewers of korean cinema.
+
 </details>
 
 <details>

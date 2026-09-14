@@ -75,7 +75,7 @@ multilingual transformer-based analysis of cross-cultural audience sentiment and
 
 **ai research**
 
-`NLP` `Machine Learning` `Affective Computing` `Computational Social Science`
+`NLP` `Machine Learning` `Affective Computing` `Computational Social Science` `Machine Translation`
 
 **research methods**
 

@@ -83,7 +83,7 @@ multilingual transformer-based analysis of cross-cultural audience sentiment and
 
 **engineering**
 
-`TypeScript` `Python` `Go` `Svelte` `Next.js` `Java` `SQL`
+`TypeScript` `Python` `C++` `Svelte` `Next.js` `Java` `SQL`
 
 ---
 

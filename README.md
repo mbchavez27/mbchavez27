@@ -4,7 +4,9 @@ software engineer, undergraduate researcher, and technical operator for live eve
 
 currently studying computer science, majoring in software technology @ de la salle university manila.
 
-interested in **ai research, natural language processing, machine learning, affective computing, computational social science**, and building scalable systems with typescript and python.
+**my research interests are** machine translation, machine learning, affective computing, and computational social science.
+
+**and for software engineering interests are** scalable systems using typescript and python.
 
 [view my resume](https://animo.li/mbchavez-resume) · [view my gitpeek stats](https://gitpeak.vercel.app/?username=mbchavez27)
 

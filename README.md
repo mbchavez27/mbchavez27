@@ -1,12 +1,14 @@
 ## hello.! @mbchavez27
 
-software engineer, undergraduate researcher, and technical operator for live events.
+*software engineer, undergraduate researcher, and technical operator for live events.*
 
-currently studying computer science, majoring in software technology @ de la salle university manila.
+currently studying **computer science, majoring in software technology @ de la salle university manila.**
 
 **my research interests are** machine translation, machine learning, affective computing, and computational social science.
 
 **and for software engineering interests are** scalable systems using typescript and python.
+
+for live production, **i mainly work as an audio and AVP operator.**
 
 [view my resume](https://animo.li/mbchavez-resume) · [view my gitpeek stats](https://gitpeak.vercel.app/?username=mbchavez27)
 

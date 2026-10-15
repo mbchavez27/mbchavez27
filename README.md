@@ -28,8 +28,7 @@ now playing!
 
 | role | organization |
 | --- | --- |
-| undergraduate researcher | center for ict for development (cite4d) |
-| undergraduate researcher | center for language technologies (celt) |
+| undergraduate researcher | center for ict for development (cite4d), center for language technologies (celt) |
 | technical operator · live events | green media group |
 | bs computer science · software technology | de la salle university manila |
 

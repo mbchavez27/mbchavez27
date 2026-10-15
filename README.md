@@ -4,11 +4,11 @@
 
 currently studying **computer science, majoring in software technology @ de la salle university manila.**
 
-**my research interests are** machine translation, machine learning, affective computing, and computational social science.
+**my research interests are** computational social science, large language models (llms), machine translation, and text mining.
 
-**and for software engineering interests are** scalable systems using typescript and python.
+**for software engineering,** i focus on building scalable systems using typescript and python.
 
-for live production, **i mainly work as an audio and AVP operator.**
+for live production, **i mainly work as an audio and avp operator.**
 
 [view my resume](https://animo.li/mbchavez-resume) · [view my gitpeek stats](https://gitpeak.vercel.app/?username=mbchavez27)
 
@@ -26,11 +26,12 @@ now playing!
 
 ## currently
 
-| role                                      | organization                            |
-| ----------------------------------------- | --------------------------------------- |
-| undergraduate researcher                  | center for ict for development (cite4d) |
-| technical operator · live events          | green media group                       |
-| bs computer science · software technology | de la salle university manila           |
+| role | organization |
+| --- | --- |
+| undergraduate researcher | center for ict for development (cite4d) |
+| undergraduate researcher | center for language technologies (celt) |
+| technical operator · live events | green media group |
+| bs computer science · software technology | de la salle university manila |
 
 ---
 
@@ -79,11 +80,11 @@ multilingual transformer-based analysis of cross-cultural audience sentiment and
 
 **ai research**
 
-`NLP` `Machine Learning` `Affective Computing` `Computational Social Science` `Machine Translation`
+`Computational Social Science` `LLM Research` `Machine Translation` `Text Mining`
 
 **research methods**
 
-`Sentiment Analysis` `Transformers` `LLMs` `Embeddings` `Social Network Analysis` `Text Mining`
+`NLP` `Sentiment Analysis` `Transformers` `LLM Evaluation` `Embeddings` `Social Network Analysis`
 
 **engineering**
 

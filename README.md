@@ -6,7 +6,7 @@ currently studying **computer science, majoring in software technology @ de la s
 
 **my research interests are** computational social science, large language models (llms), machine translation, and text mining.
 
-**for software engineering,** i focus on building scalable systems using typescript and python.
+**for software engineering,** i focus on building scalable systems using typescript, python, and cloud infrastructure.
 
 for live production, **i mainly work as an audio and avp operator.**
 
@@ -28,10 +28,10 @@ now playing!
 
 | role | organization |
 | --- | --- |
+| devops engineer intern | ing hubs philippines |
 | undergraduate researcher | center for ict for development (cite4d), center for language technologies (celt) |
 | technical operator · live events | green media group |
 | bs computer science · software technology | de la salle university manila |
-
 ---
 
 ## research & publications

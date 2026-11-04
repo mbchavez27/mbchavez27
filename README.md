@@ -1,119 +1,91 @@
-## hello.! @mbchavez27
+<div align="center">
 
-*software engineer, undergraduate researcher, and technical operator for live events.*
+# 🍓 hello! i'm max 🍓
 
-currently studying **computer science, majoring in software technology @ de la salle university manila.**
+**software engineer · undergraduate researcher · live events operator**
 
-**my research interests are** computational social science, large language models (llms), machine translation, and text mining.
+*cs, software technology @ de la salle university manila*
 
-**for software engineering,** i focus on building scalable systems using typescript, python, and cloud infrastructure.
-
-for live production, **i mainly work as an audio and avp operator.**
-
-[view my resume](https://animo.li/mbchavez-resume) · [view my gitpeek stats](https://gitpeak.vercel.app/?username=mbchavez27)
-
-now playing!
+[🍓 portfolio](https://YOUR-PORTFOLIO-URL) · [🍓 resume](https://animo.li/mbchavez-resume)
 
 <a href="https://listening-xmdb.vercel.app/">
-  <img
-    src="https://listening-xmdb.vercel.app/now.svg?user=mbchavezz&name=Max"
-    width="500"
-    alt="Max's now playing status"
-  />
+  <img src="https://listening-xmdb.vercel.app/now.svg?user=mbchavezz&name=Max" width="500" alt="Max's now playing status" />
 </a>
 
----
-
-## currently
-
-| role | organization |
-| --- | --- |
-| devops engineer intern | ing hubs philippines |
-| undergraduate researcher | center for ict for development (cite4d), center for language technologies (celt) |
-| technical operator · live events | green media group |
-| bs computer science · software technology | de la salle university manila |
----
-
-## research & publications
-
-<details>
-<summary><strong>ailric 2026 · accepted oral presentation</strong></summary>
-
-<br>
-
-### A Machine Proposed Human-Validated Taglish-English Parallel Corpus for E-Commerce Alignment Analysis
-
-a machine-proposed, human-validated taglish-english parallel corpus for multilingual nlp and e-commerce applications.
-
-### Audience Bias and Sentiment Analysis of Korean Cinema
-
-a multilingual nlp study analyzing audience sentiment and cultural differences between korean and international viewers of korean cinema.
-
-</details>
-
-<details>
-<summary><strong>ieee fmlds 2026 · accepted full paper</strong></summary>
-
-<br>
-
-### The Dynamics of Cancel Culture: A Social Network and Sentiment Trajectory Analysis of Influencer Apology Videos in South Korea
-
-sentiment trajectory and social network analysis of audience responses to influencer apology videos.
-
-</details>
-
-<details>
-<summary><strong>icicic 2026 · accepted oral presentation</strong></summary>
-
-<br>
-
-### Analyzing Cross-Cultural Audience Sentimental and Evaluative Dimensions in Korean Cinema Using Multilingual Transformers
-
-multilingual transformer-based analysis of cross-cultural audience sentiment and evaluative dimensions in korean cinema.
-
-</details>
+</div>
 
 ---
 
-## focus
+### 🍓 what i'm about
 
-**ai research**
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'cScale0':'#e11d48','cScale1':'#fb7185','cScale2':'#fda4af','cScaleLabel0':'#ffffff','cScaleLabel1':'#ffffff','cScaleLabel2':'#7f1d2d','lineColor':'#e11d48'}}}%%
+mindmap
+  root((🍓 max))
+    research
+      computational social science
+      llms
+      machine translation
+      text mining
+    engineering
+      typescript
+      python
+      cloud + devops
+    live events
+      audio
+      avp
+```
 
-`Computational Social Science` `LLM Research` `Machine Translation` `Text Mining`
+### 🍓 how i like to work
 
-**research methods**
+```mermaid
+flowchart LR
+    A["🛍️ messy<br/>taglish text"] --> B["🧹 clean<br/>+ align"]
+    B --> C["🤖 models<br/>+ llms"]
+    C --> D["🍓 insights"]
+    D -.->|"new questions"| A
 
-`NLP` `Sentiment Analysis` `Transformers` `LLM Evaluation` `Embeddings` `Social Network Analysis`
+    classDef white fill:#ffffff,stroke:#e11d48,stroke-width:2px,color:#9f1239
+    classDef red fill:#e11d48,stroke:#9f1239,stroke-width:2px,color:#ffffff
+    classDef blush fill:#ffe4e6,stroke:#e11d48,stroke-width:2px,color:#9f1239
+    class A white
+    class B blush
+    class C white
+    class D red
+    linkStyle default stroke:#e11d48,stroke-width:2px
+```
 
-**engineering**
+### 🍓 papers, 2026
 
-`TypeScript` `Python` `C++` `Svelte` `Next.js` `Java` `SQL`
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'cScale0':'#e11d48','cScale1':'#fb7185','cScale2':'#be123c','cScaleLabel0':'#ffffff','cScaleLabel1':'#ffffff','cScaleLabel2':'#ffffff','lineColor':'#e11d48'}}}%%
+timeline
+    title accepted this year 🍓
+    AILRIC (oral) : taglish-english parallel corpus : korean cinema audience bias
+    ICICIC (oral) : cross-cultural sentiment in korean cinema
+    IEEE FMLDS : cancel culture and influencer apology videos
+```
 
----
+### 🍓 right now
 
-<details>
-<summary><strong>tech stack</strong></summary>
+```mermaid
+flowchart LR
+    me(("🍓 max")) --- a["devops intern<br/>ing hubs ph"]
+    me --- b["researcher<br/>cite4d · celt"]
+    me --- c["tech operator<br/>green media group"]
+    me --- d["student<br/>dlsu manila"]
 
-<br>
+    classDef core fill:#e11d48,stroke:#9f1239,stroke-width:2px,color:#ffffff
+    classDef leaf fill:#ffffff,stroke:#e11d48,stroke-width:2px,color:#9f1239
+    class me core
+    class a,b,c,d leaf
+    linkStyle default stroke:#e11d48,stroke-width:2px
+```
 
-### ai & machine learning
+<div align="center">
 
-`PyTorch` `Hugging Face Transformers` `Scikit-learn` `Pandas` `NumPy`
+🍓 *always learning, always building* 🍓
 
-### web & backend
+more about me → [portfolio](https://YOUR-PORTFOLIO-URL) · [resume](https://animo.li/mbchavez-resume)
 
-`Svelte` `SvelteKit` `Next.js` `Express.js` `Go` `REST APIs` `Tailwind CSS`
-
-### databases
-
-`PostgreSQL` `MySQL` `MongoDB`
-
-### tooling
-
-`Git` `Docker`
-
-</details>
-
----
-
-> always learning, always building.
+</div>

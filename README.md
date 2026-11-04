@@ -16,6 +16,23 @@
 
 ---
 
+### right now
+
+```mermaid
+flowchart TB
+    me(("🍓 max"))
+    me --- a["🧰 devops intern<br/>ing hubs ph"]
+    me --- b["🔬 researcher<br/>cite4d · celt"]
+    me --- c["🎚️ tech operator<br/>green media group"]
+    me --- d["🎓 student<br/>dlsu manila"]
+
+    classDef core fill:#e11d48,stroke:#9f1239,stroke-width:2px,color:#ffffff
+    classDef leaf fill:#ffffff,stroke:#e11d48,stroke-width:2px,color:#9f1239
+    class me core
+    class a,b,c,d leaf
+    linkStyle default stroke:#e11d48,stroke-width:2px
+```
+
 ### what i'm about
 
 ```mermaid
@@ -103,23 +120,6 @@ flowchart TB
     class y core
     class a,i,f venue
     class a1,a2,i1,f1 paper
-    linkStyle default stroke:#e11d48,stroke-width:2px
-```
-
-### right now
-
-```mermaid
-flowchart TB
-    me(("🍓 max"))
-    me --- a["🧰 devops intern<br/>ing hubs ph"]
-    me --- b["🔬 researcher<br/>cite4d · celt"]
-    me --- c["🎚️ tech operator<br/>green media group"]
-    me --- d["🎓 student<br/>dlsu manila"]
-
-    classDef core fill:#e11d48,stroke:#9f1239,stroke-width:2px,color:#ffffff
-    classDef leaf fill:#ffffff,stroke:#e11d48,stroke-width:2px,color:#9f1239
-    class me core
-    class a,b,c,d leaf
     linkStyle default stroke:#e11d48,stroke-width:2px
 ```
 

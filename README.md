@@ -1,12 +1,12 @@
 <div align="center">
 
-# 🍓 hello! i'm max 🍓
+# 🍓 hello! i'm max
 
 **software engineer · undergraduate researcher · live events operator**
 
 *cs, software technology @ de la salle university manila*
 
-[🍓 portfolio](https://YOUR-PORTFOLIO-URL) · [🍓 resume](https://animo.li/mbchavez-resume)
+[portfolio](https://YOUR-PORTFOLIO-URL) · [resume](https://animo.li/mbchavez-resume)
 
 <a href="https://listening-xmdb.vercel.app/">
   <img src="https://listening-xmdb.vercel.app/now.svg?user=mbchavezz&name=Max" width="500" alt="Max's now playing status" />
@@ -16,64 +16,104 @@
 
 ---
 
-### 🍓 what i'm about
-
-```mermaid
-%%{init: {'theme':'base','themeVariables':{'cScale0':'#e11d48','cScale1':'#fb7185','cScale2':'#fda4af','cScaleLabel0':'#ffffff','cScaleLabel1':'#ffffff','cScaleLabel2':'#7f1d2d','lineColor':'#e11d48'}}}%%
-mindmap
-  root((🍓 max))
-    research
-      computational social science
-      llms
-      machine translation
-      text mining
-    engineering
-      typescript
-      python
-      cloud + devops
-    live events
-      audio
-      avp
-```
-
-### 🍓 how i like to work
+### what i'm about
 
 ```mermaid
 flowchart LR
-    A["🛍️ messy<br/>taglish text"] --> B["🧹 clean<br/>+ align"]
-    B --> C["🤖 models<br/>+ llms"]
-    C --> D["🍓 insights"]
-    D -.->|"new questions"| A
+    me(("🍓 max"))
+    me --- r["research 🔬"]
+    me --- e["engineering 💻"]
+    me --- l["live events 🎚️"]
 
-    classDef white fill:#ffffff,stroke:#e11d48,stroke-width:2px,color:#9f1239
-    classDef red fill:#e11d48,stroke:#9f1239,stroke-width:2px,color:#ffffff
-    classDef blush fill:#ffe4e6,stroke:#e11d48,stroke-width:2px,color:#9f1239
-    class A white
-    class B blush
-    class C white
-    class D red
+    r --- r1["computational social science"]
+    r --- r2["llms"]
+    r --- r3["machine translation"]
+    r --- r4["text mining"]
+
+    e --- e1["typescript"]
+    e --- e2["python"]
+    e --- e3["cloud + devops"]
+
+    l --- l1["audio"]
+    l --- l2["avp"]
+
+    classDef core fill:#e11d48,stroke:#9f1239,stroke-width:2px,color:#ffffff
+    classDef branch fill:#e11d48,stroke:#9f1239,stroke-width:2px,color:#ffffff
+    classDef leaf fill:#ffffff,stroke:#e11d48,stroke-width:2px,color:#9f1239
+    class me core
+    class r,e,l branch
+    class r1,r2,r3,r4,e1,e2,e3,l1,l2 leaf
     linkStyle default stroke:#e11d48,stroke-width:2px
 ```
 
-### 🍓 papers, 2026
+### how i like to work
 
-```mermaid
-%%{init: {'theme':'base','themeVariables':{'cScale0':'#e11d48','cScale1':'#fb7185','cScale2':'#be123c','cScaleLabel0':'#ffffff','cScaleLabel1':'#ffffff','cScaleLabel2':'#ffffff','lineColor':'#e11d48'}}}%%
-timeline
-    title accepted this year 🍓
-    AILRIC (oral) : taglish-english parallel corpus : korean cinema audience bias
-    ICICIC (oral) : cross-cultural sentiment in korean cinema
-    IEEE FMLDS : cancel culture and influencer apology videos
-```
-
-### 🍓 right now
+**research**
 
 ```mermaid
 flowchart LR
-    me(("🍓 max")) --- a["devops intern<br/>ing hubs ph"]
-    me --- b["researcher<br/>cite4d · celt"]
-    me --- c["tech operator<br/>green media group"]
-    me --- d["student<br/>dlsu manila"]
+    A["📚 raw<br/>text"] --> B["🧹 clean<br/>it up"]
+    B --> C["🤖 teach<br/>a model"]
+    C --> D["📏 see how<br/>it does"]
+    D --> E["🍓 insights"]
+    D -.->|"try again"| B
+
+    classDef outline fill:#ffffff,stroke:#e11d48,stroke-width:2px,color:#9f1239
+    classDef solid fill:#e11d48,stroke:#9f1239,stroke-width:2px,color:#ffffff
+    class A,B,C,D outline
+    class E solid
+    linkStyle default stroke:#e11d48,stroke-width:2px
+```
+
+**software engineering**
+
+```mermaid
+flowchart LR
+    A["💡 idea"] --> B["🛠️ build"]
+    B --> C["🧪 test"]
+    C --> D["📦 pack it"]
+    D --> E["🚀 ship it"]
+    E --> F["👀 keep an<br/>eye on it"]
+    F -.->|"make it better"| A
+
+    classDef outline fill:#ffffff,stroke:#e11d48,stroke-width:2px,color:#9f1239
+    classDef solid fill:#e11d48,stroke:#9f1239,stroke-width:2px,color:#ffffff
+    class A,B,C,D,E outline
+    class F solid
+    linkStyle default stroke:#e11d48,stroke-width:2px
+```
+
+### papers, accepted so far
+
+```mermaid
+flowchart LR
+    y(("2026 📝"))
+    y --- a["AILRIC"]
+    y --- i["ICICIC"]
+    y --- f["IEEE FMLDS"]
+
+    a --- a1["taglish-english<br/>parallel corpus"]
+    a --- a2["korean cinema<br/>audience bias"]
+    i --- i1["cross-cultural sentiment<br/>in korean cinema"]
+    f --- f1["cancel culture and<br/>influencer apology videos"]
+
+    classDef core fill:#e11d48,stroke:#9f1239,stroke-width:2px,color:#ffffff
+    classDef venue fill:#e11d48,stroke:#9f1239,stroke-width:2px,color:#ffffff
+    classDef paper fill:#ffffff,stroke:#e11d48,stroke-width:2px,color:#9f1239
+    class y core
+    class a,i,f venue
+    class a1,a2,i1,f1 paper
+    linkStyle default stroke:#e11d48,stroke-width:2px
+```
+
+### right now
+
+```mermaid
+flowchart LR
+    me(("🍓 max")) --- a["🧰 devops intern<br/>ing hubs ph"]
+    me --- b["🔬 researcher<br/>cite4d · celt"]
+    me --- c["🎚️ tech operator<br/>green media group"]
+    me --- d["🎓 student<br/>dlsu manila"]
 
     classDef core fill:#e11d48,stroke:#9f1239,stroke-width:2px,color:#ffffff
     classDef leaf fill:#ffffff,stroke:#e11d48,stroke-width:2px,color:#9f1239
@@ -84,7 +124,7 @@ flowchart LR
 
 <div align="center">
 
-🍓 *always learning, always building* 🍓
+*always learning, always building* 🍓
 
 more about me → [portfolio](https://YOUR-PORTFOLIO-URL) · [resume](https://animo.li/mbchavez-resume)
 

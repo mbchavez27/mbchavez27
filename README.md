@@ -6,7 +6,7 @@
 
 *cs, software technology @ de la salle university manila*
 
-[portfolio](https://YOUR-PORTFOLIO-URL) · [resume](https://animo.li/mbchavez-resume)
+[portfolio](https://mbchavezzportfolio.pages.dev/) · [resume](https://animo.li/mbchavez-resume)
 
 <a href="https://listening-xmdb.vercel.app/">
   <img src="https://listening-xmdb.vercel.app/now.svg?user=mbchavezz&name=Max" width="500" alt="Max's now playing status" />
@@ -127,6 +127,6 @@ flowchart TB
 
 *always learning, always building* 🍓
 
-more about me → [portfolio](https://YOUR-PORTFOLIO-URL) · [resume](https://animo.li/mbchavez-resume)
+more about me → [portfolio](https://mbchavezzportfolio.pages.dev/) · [resume](https://animo.li/mbchavez-resume)
 
 </div>

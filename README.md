@@ -19,20 +19,20 @@
 ### what i'm about
 
 ```mermaid
-flowchart LR
+flowchart TB
     me(("🍓 max"))
     me --- r["research 🔬"]
     me --- e["engineering 💻"]
     me --- l["live events 🎚️"]
 
-    r --- r1["computational social science"]
+    r --- r1["computational<br/>social science"]
     r --- r2["llms"]
-    r --- r3["machine translation"]
-    r --- r4["text mining"]
+    r --- r3["machine<br/>translation"]
+    r --- r4["text<br/>mining"]
 
     e --- e1["typescript"]
     e --- e2["python"]
-    e --- e3["cloud + devops"]
+    e --- e3["cloud +<br/>devops"]
 
     l --- l1["audio"]
     l --- l2["avp"]
@@ -52,9 +52,9 @@ flowchart LR
 
 ```mermaid
 flowchart LR
-    A["📚 raw<br/>text"] --> B["🧹 clean<br/>it up"]
-    B --> C["🤖 teach<br/>a model"]
-    C --> D["📏 see how<br/>it does"]
+    A["📚 raw text"] --> B["🧹 clean it up"]
+    B --> C["🤖 teach a model"]
+    C --> D["📏 see how it does"]
     D --> E["🍓 insights"]
     D -.->|"try again"| B
 
@@ -73,7 +73,7 @@ flowchart LR
     B --> C["🧪 test"]
     C --> D["📦 pack it"]
     D --> E["🚀 ship it"]
-    E --> F["👀 keep an<br/>eye on it"]
+    E --> F["👀 keep an eye on it"]
     F -.->|"make it better"| A
 
     classDef outline fill:#ffffff,stroke:#e11d48,stroke-width:2px,color:#9f1239
@@ -86,8 +86,8 @@ flowchart LR
 ### papers, accepted so far
 
 ```mermaid
-flowchart LR
-    y(("2026 📝"))
+flowchart TB
+    y(("overall 📝"))
     y --- a["AILRIC"]
     y --- i["ICICIC"]
     y --- f["IEEE FMLDS"]
@@ -109,8 +109,9 @@ flowchart LR
 ### right now
 
 ```mermaid
-flowchart LR
-    me(("🍓 max")) --- a["🧰 devops intern<br/>ing hubs ph"]
+flowchart TB
+    me(("🍓 max"))
+    me --- a["🧰 devops intern<br/>ing hubs ph"]
     me --- b["🔬 researcher<br/>cite4d · celt"]
     me --- c["🎚️ tech operator<br/>green media group"]
     me --- d["🎓 student<br/>dlsu manila"]

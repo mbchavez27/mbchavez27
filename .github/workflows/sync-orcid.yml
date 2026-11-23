@@ -17,6 +17,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - uses: actions/setup-python@v5
         with:
@@ -34,6 +36,13 @@ jobs:
           git add README.md
           if ! git diff --quiet || ! git diff --staged --quiet; then
             git commit -m "chore: update publications from orcid"
-            git pull --rebase origin main
-            git push origin main
+            for attempt in 1 2 3 4 5; do
+              git fetch origin main
+              if git rebase origin/main && git push origin main; then
+                exit 0
+              fi
+              git rebase --abort || true
+              sleep 5
+            done
+            exit 1
           fi

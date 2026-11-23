@@ -1,3 +1,4 @@
+import html
 import json
 import os
 import re
@@ -36,8 +37,8 @@ def main() -> None:
         title = summary["title"]["title"]["value"].strip()
 
         pub_date = summary.get("publication-date") or {}
-        year = (pub_date.get("year") or {}).get("value") or "n.d."
-        month = (pub_date.get("month") or {}).get("value") or "00"
+        year = str((pub_date.get("year") or {}).get("value") or "n.d.")
+        month = str((pub_date.get("month") or {}).get("value") or "00").zfill(2)
 
         venue = ((summary.get("journal-title") or {}).get("value") or "").strip()
 
@@ -56,24 +57,37 @@ def main() -> None:
         if not venue and doi:
             venue = get_crossref_venue(doi)
 
-        # Match your lowercase README aesthetic
-        title_clean = title.lower()
-        venue_clean = venue.lower()
+        # Lowercase formatting to match your README vibe
+        title_esc = html.escape(title.lower())
+        venue_esc = html.escape(venue.lower())
 
-        link_md = f"[{title_clean}]({url})" if url else title_clean
-        meta_parts = [p for p in [venue_clean, str(year)] if p]
-        meta_str = f" · *{' · '.join(meta_parts)}*" if meta_parts else ""
+        title_html = (
+            f'<a href="{url}"><b>{title_esc}</b></a>' if url else f"<b>{title_esc}</b>"
+        )
 
-        entries.append((f"{year}-{month}", f"**{link_md}**{meta_str}"))
+        meta_items = []
+        if venue_esc:
+            meta_items.append(f"<i>{venue_esc}</i>")
+        if doi:
+            meta_items.append(f'<a href="https://doi.org/{html.escape(doi)}">doi</a>')
+
+        meta_line = f"<br /><sub>{' · '.join(meta_items)}</sub>" if meta_items else ""
+
+        row_html = (
+            f"  <tr>\n"
+            f'    <td align="center" valign="top" width="64"><code>{html.escape(year)}</code></td>\n'
+            f'    <td align="left" valign="top">{title_html}{meta_line}</td>\n'
+            f"  </tr>"
+        )
+        entries.append((f"{year}-{month}", row_html))
 
     entries.sort(key=lambda x: x[0], reverse=True)
 
-    # Render as clean centered lines matching your header block
-    rendered = (
-        "<br />\n".join(item[1] for item in entries)
-        if entries
-        else "*no public works found.*"
-    )
+    if entries:
+        rows = "\n".join(item[1] for item in entries)
+        rendered = f'<table width="620">\n{rows}\n</table>'
+    else:
+        rendered = "<p><i>no public works found.</i></p>"
 
     with open("README.md", "r", encoding="utf-8") as f:
         readme = f.read()

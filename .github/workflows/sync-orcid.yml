@@ -24,7 +24,7 @@ jobs:
 
       - name: fetch orcid works
         env:
-          ORCID_ID: "0000-0000-0000-0000" # <-- keep your ORCID iD here
+          ORCID_ID: "0009-0006-0366-4242" # <-- keep your ORCID iD here
         run: python .github/scripts/fetch_orcid.py
 
       - name: commit changes

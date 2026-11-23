@@ -17,32 +17,31 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
-      - name: fetch orcid works
+      - name: sync readme with orcid
         env:
           ORCID_ID: "0009-0006-0366-4242" # <-- keep your ORCID iD here
-        run: python .github/scripts/fetch_orcid.py
-
-      - name: commit changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          if ! git diff --quiet || ! git diff --staged --quiet; then
+          for attempt in 1 2 3 4 5; do
+            git fetch origin main
+            git reset --hard origin/main
+            python .github/scripts/fetch_orcid.py
+            if git diff --quiet -- README.md; then
+              echo "no publication changes"
+              exit 0
+            fi
+            git add README.md
             git commit -m "chore: update publications from orcid"
-            for attempt in 1 2 3 4 5; do
-              git fetch origin main
-              if git rebase origin/main && git push origin main; then
-                exit 0
-              fi
-              git rebase --abort || true
-              sleep 5
-            done
-            exit 1
-          fi
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+            echo "push rejected (attempt $attempt), retrying"
+            sleep $((attempt * 5))
+          done
+          exit 1

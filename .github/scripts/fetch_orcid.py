@@ -1,3 +1,5 @@
+from __future__ import annotations
+
 import html
 import json
 import os
@@ -33,8 +35,15 @@ def main() -> None:
     entries = []
 
     for group in data.get("group", []):
-        summary = group["work-summary"][0]
-        title = summary["title"]["title"]["value"].strip()
+        summaries = group.get("work-summary") or []
+        if not summaries:
+            continue
+        summary = summaries[0]
+        title = (
+            ((summary.get("title") or {}).get("title") or {}).get("value") or ""
+        ).strip()
+        if not title:
+            continue
 
         pub_date = summary.get("publication-date") or {}
         year = str((pub_date.get("year") or {}).get("value") or "n.d.")
@@ -44,9 +53,9 @@ def main() -> None:
 
         doi = ""
         url = ""
-        for ext_id in summary.get("external-ids", {}).get("external-id", []):
+        for ext_id in (summary.get("external-ids") or {}).get("external-id") or []:
             id_type = ext_id.get("external-id-type")
-            id_val = ext_id.get("external-id-value", "").strip()
+            id_val = (ext_id.get("external-id-value") or "").strip()
             if id_type == "doi" and id_val:
                 doi = id_val
                 url = f"https://doi.org/{doi}"
